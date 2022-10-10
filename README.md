@@ -9,7 +9,7 @@ in this mini project in database i am using xampp for manage database
 
 ### Entity
 
-in tih mini project i am using 3 entity user, basket, and squad
+in this entity mini project i am using 3 entity user, basket, and squad
 
 ## Repository
 
